@@ -8,7 +8,7 @@
     <td style="vertical-align: top;">
       <div style="display: flex; flex-direction: column;">
         <div style="display: flex;">
-          <a href="https://github.com/ZipeStudio/Disrobe-Sounds">
+          <a href="https://github.com/ZipeStudio/disrobe-sounds">
             <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/github.png?raw=true" title="Github page">
           </a>
           <a href="https://modrinth.com/mod/disrobe-sounds">
@@ -38,7 +38,7 @@
 
 **Disrobe Sounds** is a Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
 
-!["my totem sounds banner"](https://github.com/ZipeStudio/Disrobe-Sounds/blob/master/img/ds_banner.png?raw=true)
+!["Disrobe Sounds banner"](https://github.com/ZipeStudio/disrobe-sounds/blob/master/img/ds_banner.png?raw=true)
 
 !["Compatible" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
