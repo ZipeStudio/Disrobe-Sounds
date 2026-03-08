@@ -1,0 +1,5 @@
+accessWidener v2 named
+# 1.21.11 AW
+
+accessible field net/minecraft/world/inventory/AbstractMountInventoryMenu mount Lnet/minecraft/world/entity/LivingEntity;
+extendable class net/minecraft/world/inventory/ArmorSlot

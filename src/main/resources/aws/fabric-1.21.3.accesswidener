@@ -1,0 +1,5 @@
+accessWidener v2 named
+# 1.21.3 AW
+
+accessible field net/minecraft/world/inventory/HorseInventoryMenu horse Lnet/minecraft/world/entity/animal/horse/AbstractHorse;
+extendable class net/minecraft/world/inventory/ArmorSlot
