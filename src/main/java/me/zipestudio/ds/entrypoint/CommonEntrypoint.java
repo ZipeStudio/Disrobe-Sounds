@@ -26,7 +26,15 @@ public class CommonEntrypoint {
     public CommonEntrypoint() {
 
         DisrobeSoundsServer.onInitialize();
-        if (FMLEnvironment.dist.isClient()) {
+
+        boolean client =
+                //? if >= 1.21.9 {
+                /^FMLEnvironment.getDist().isClient();
+                ^///?} else {
+                FMLEnvironment.dist.isClient();
+                //?}
+
+        if (client) {
             ClientEntrypoint.onInitializeClient();
         }
 
