@@ -16,10 +16,10 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "me.zipestudio.ds.entrypoint.CommonEntrypoint"
+            "me.zipestudio.disrobesounds.entrypoint.CommonEntrypoint"
         ],
         "client": [
-            "me.zipestudio.ds.entrypoint.ClientEntrypoint"
+            "me.zipestudio.disrobesounds.entrypoint.ClientEntrypoint"
         ]
     },
     "depends": {
@@ -28,7 +28,7 @@
         "java": ">=${java}",
         "${fabric_api_id}": "*"
     },
-    "accessWidener": "aws/fabric-${minecraft}.accesswidener",
+    "accessWidener": "${fabric_trick_accesswidener_id}",
     "mixins": [
         "${fabric_trick_mixin_configs}"
     ]

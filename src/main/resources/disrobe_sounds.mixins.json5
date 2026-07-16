@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "me.zipestudio.ds.mixin",
+	"package": "me.zipestudio.disrobesounds.mixin",
 	"refmap": "${mod_id}.refmap.json",
 	"compatibilityLevel": "JAVA_${java}",
 	"mixins": [

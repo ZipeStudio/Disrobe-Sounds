@@ -4,7 +4,6 @@ plugins {
 
 mossyDependencies {
 	minecraft = stonecutter.current.version.toString()
-	mappings = "official"
 	lombok = prop("base.lombok_version")
 
 	fabricApi = prop("build.fabric_api")

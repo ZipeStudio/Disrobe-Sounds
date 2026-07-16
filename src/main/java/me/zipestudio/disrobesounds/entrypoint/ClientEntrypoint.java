@@ -1,10 +1,10 @@
-package me.zipestudio.ds.entrypoint;
+package me.zipestudio.disrobesounds.entrypoint;
 
 //? if fabric {
 
-import net.fabricmc.api.ClientModInitializer;
+/*import net.fabricmc.api.ClientModInitializer;
 
-import me.zipestudio.ds.client.DisrobeSoundsClient;
+import me.zipestudio.disrobesounds.client.DisrobeSoundsClient;
 
 public class ClientEntrypoint implements ClientModInitializer {
 
@@ -14,9 +14,9 @@ public class ClientEntrypoint implements ClientModInitializer {
 	}
 }
 
-//?} elif neoforge {
+*///?} elif neoforge {
 
-/*import me.zipestudio.ds.client.DisrobeSoundsClient;
+import me.zipestudio.disrobesounds.client.DisrobeSoundsClient;
 
 public class ClientEntrypoint {
 
@@ -26,8 +26,8 @@ public class ClientEntrypoint {
 
 }
 
-*///?} elif forge {
-/*import me.zipestudio.ds.client.DisrobeSoundsClient;
+//?} elif forge {
+/*import me.zipestudio.disrobesounds.client.DisrobeSoundsClient;
 
 public class ClientEntrypoint {
 

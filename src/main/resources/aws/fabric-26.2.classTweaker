@@ -1,0 +1,5 @@
+classTweaker v1 official
+# 26.2 AW(AT)
+
+accessible field net/minecraft/world/inventory/AbstractMountInventoryMenu mount Lnet/minecraft/world/entity/LivingEntity;
+extendable class net/minecraft/world/inventory/ArmorSlot
