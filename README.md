@@ -36,11 +36,15 @@
 
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
-**Disrobe Sounds** is a Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
-
-# [Video Showcase](https://www.youtube.com/watch?v=adPvTPczRa0)
+**Disrobe Sounds** — A Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
 
 !["Disrobe Sounds banner"](https://github.com/ZipeStudio/disrobe-sounds/blob/master/img/ds_banner.png?raw=true)
+
+### Showcase
+<div align="center">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/adPvTPczRa0" title="player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+</div>
 
 !["Compatible" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
@@ -64,4 +68,6 @@ Yeah, you got it right. Just by advertising, you will support the mod and the cr
 
 !["Licensing" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSlicensing.png?raw=true)
 
-### [See the original mod repository](https://github.com/ZipeStudio/disrobe-sounds)
+The license terms for this project are defined in the [LICENSE](https://github.com/ZipeStudio/disrobe-sounds/blob/master/LICENSE.md) file in the source repository. That file always takes precedence over any license shown anywhere else.
+
+### [View the source code](https://github.com/ZipeStudio/disrobe-sounds)
