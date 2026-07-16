@@ -38,6 +38,8 @@
 
 **Disrobe Sounds** is a Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
 
+# [Video Showcase](https://www.youtube.com/watch?v=adPvTPczRa0)
+
 !["Disrobe Sounds banner"](https://github.com/ZipeStudio/disrobe-sounds/blob/master/img/ds_banner.png?raw=true)
 
 !["Compatible" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
