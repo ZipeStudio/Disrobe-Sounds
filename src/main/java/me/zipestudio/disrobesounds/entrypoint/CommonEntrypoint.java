@@ -2,7 +2,7 @@ package me.zipestudio.disrobesounds.entrypoint;
 
 //? if fabric {
 
-/*import me.zipestudio.disrobesounds.DisrobeSounds;
+import me.zipestudio.disrobesounds.DisrobeSounds;
 import net.fabricmc.api.ModInitializer;
 
 public class CommonEntrypoint implements ModInitializer {
@@ -13,9 +13,9 @@ public class CommonEntrypoint implements ModInitializer {
 	}
 }
 
-*///?} elif neoforge {
+//?} elif neoforge {
 
-import me.zipestudio.disrobesounds.DisrobeSounds;
+/*import me.zipestudio.disrobesounds.DisrobeSounds;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.loading.FMLEnvironment;
 
@@ -30,8 +30,8 @@ public class CommonEntrypoint {
                 //? if >= 1.21.9 {
                 FMLEnvironment.getDist().isClient();
                 //?} else {
-                /*FMLEnvironment.dist.isClient();
-                *///?}
+                /^FMLEnvironment.dist.isClient();
+                ^///?}
 
         if (client) {
             ClientEntrypoint.onInitializeClient();
@@ -41,7 +41,7 @@ public class CommonEntrypoint {
 
 }
 
-//?} elif forge {
+*///?} elif forge {
 
 /*import me.zipestudio.disrobesounds.DisrobeSounds;
 import net.minecraftforge.api.distmarker.Dist;
