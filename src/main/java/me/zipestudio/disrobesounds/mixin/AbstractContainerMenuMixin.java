@@ -24,11 +24,7 @@ import net.minecraft.world.inventory.ContainerInput;
 /*import net.minecraft.world.inventory.ClickType;
 *///?}
 
-//? if >=1.21.11 {
 import net.minecraft.world.inventory.AbstractMountInventoryMenu;
-//?} else {
-/*import net.minecraft.world.inventory.HorseInventoryMenu;
-*///?}
 //?}
 
 @Mixin(AbstractContainerMenu.class)
@@ -98,22 +94,14 @@ public abstract class AbstractContainerMenuMixin {
     @Unique
     private LivingEntity mount() {
 
-        //? if >=1.21.11 {
         LivingEntity mount = ((AbstractMountInventoryMenu) (Object) this).mount;
-        //?} else {
-        /*LivingEntity mount = ((HorseInventoryMenu) (Object) this).horse;
-        *///?}
 
         return mount != null && mount.isAlive() ? mount : null;
     }
 
     @Unique
     private boolean isMountMenu() {
-        //? if >=1.21.11 {
         return ((Object) this) instanceof AbstractMountInventoryMenu;
-        //?} else {
-        /*return ((Object) this) instanceof HorseInventoryMenu;
-        *///?}
     }
     //?}
 

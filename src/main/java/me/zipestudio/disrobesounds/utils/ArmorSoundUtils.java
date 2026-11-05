@@ -38,15 +38,9 @@ public class ArmorSoundUtils {
 
         //? if <1.21 {
 
-        /*//? if >=1.20.5 {
-        if (stack.getItem() instanceof net.minecraft.world.item.AnimalArmorItem) {
+        /*if (stack.getItem() instanceof net.minecraft.world.item.HorseArmorItem) {
             return getCorrectSound(SoundEvents.HORSE_ARMOR);
         }
-        //?} else {
-        /^if (stack.getItem() instanceof net.minecraft.world.item.HorseArmorItem) {
-            return getCorrectSound(SoundEvents.HORSE_ARMOR);
-        }
-        ^///?}
 
         if (stack.is(ItemTags.WOOL_CARPETS)) {
             return getCorrectSound(SoundEvents.LLAMA_SWAG);

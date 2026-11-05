@@ -25,7 +25,7 @@
           <a href="https://t.me/zipeleaf">
             <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/telegram.png?raw=true" title="Telegram channel">
           </a>
-          <a href="https://ko-fi.com/zipestudio/tip">
+          <a href="https://www.patreon.com/cw/ZipeStudio/membership">
             <img src="https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/support.png?raw=true" title="Support me (thx)">
           </a>
         </div>
@@ -36,9 +36,7 @@
 
 !["Description" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSdescription.png?raw=true)
 
-**Disrobe Sounds** — A Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
-
-!["Disrobe Sounds banner"](https://github.com/ZipeStudio/disrobe-sounds/blob/master/img/ds_banner.png?raw=true)
+**Disrobe Sounds** is a Client-side mod that adds missing unequip sounds for items removed from equipment slots (armor, saddles, etc.).
 
 ### Showcase
 <div align="center">
@@ -46,7 +44,9 @@
 </iframe>
 </div>
 
-!["Compatible" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
+<img src="https://github.com/ZipeStudio/disrobe-sounds/blob/master/assets/banner.png?raw=true" width="100%" alt="Disrobe Sounds banner">
+
+!["Compatibility" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZScompatible.png?raw=true)
 
 - Works with **any mod** that adds armor, horse armor, saddles, carpets, or any equippable items – if it fits in an equipment slot, the mod will play the appropriate unequip sound.
 - On Minecraft **1.21.2 and newer**, automatically supports any item with the `equippable` component. No extra configuration or special handling required – it just works out of the box.
@@ -68,6 +68,6 @@ Yeah, you got it right. Just by advertising, you will support the mod and the cr
 
 !["Licensing" Title](https://github.com/ZipeStudio/Vault/blob/main/design/mods/main/ZSlicensing.png?raw=true)
 
-The license terms for this project are defined in the [LICENSE](https://github.com/ZipeStudio/disrobe-sounds/blob/master/LICENSE.md) file in the source repository. That file always takes precedence over any license shown anywhere else.
+The license terms for this project are defined in the [LICENSE](https://github.com/ZipeStudio/disrobe-sounds/blob/master/LICENSE.md) file in this repository. That file always takes precedence over any license shown anywhere else.
 
-### [View the source code](https://github.com/ZipeStudio/disrobe-sounds)
+[**See the original mod repository**](https://github.com/ZipeStudio/disrobe-sounds)
